@@ -9,7 +9,7 @@
 - Action  
 - Strategy  
 - Shooter  
-- Adventure 
+- Adventure  
 Check if current URL has game category name inside.  
 At the end of test close browser.
 

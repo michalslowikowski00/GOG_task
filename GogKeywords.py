@@ -10,14 +10,14 @@ class GogKeywords:
         pass
 
     def check_url(self):
-        """Method will check if current URL -- robot framwork will do assertion."""
+        """Method will check if current URL -- robot framework will do assertion."""
 
         test_url = self.driver.current_url
         return test_url
 
     def find_all_in_genre(self):
         """Method will iterate every element in Genre web element.
-        Click on it and check current url after every interation."""
+        Click on it and check current url after every iteration."""
 
         list_game_types = ["Role-playing", "Simulation", "Indie", "Racing", "Sports",
                            "Action", "Strategy", "Shooter", "Adventure"]

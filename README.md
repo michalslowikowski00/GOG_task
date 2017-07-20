@@ -15,16 +15,16 @@ At the end of test close browser.
 
 2. Test steps:  
 Program will:  
-— automatically open we browser (Chrome)  
-— iterate through every game type from menu dropdown called Genre — select every available game type from list and click on it  
-— check if mark X beside Genre is visible  
-— check if URL contains string with name of game type after every iteration  
+- automatically open we browser (Chrome)  
+- iterate through every game type from menu dropdown called Genre — select every available game type from list and click on it  
+- check if mark X beside Genre is visible  
+- check if URL contains string with name of game type after every iteration  
 3. Expectations:  
-— there are available 9 games categories  
-— every time when game category will be selected, URL has to contain this category as string in URL, e.g. after selected role playing category URL should be like this:  
+- there are available 9 games categories  
+- every time when game category will be selected, URL has to contain this category as string in URL, e.g. after selected role playing category URL should be like this:  
 https://www.gog.com/games/role-playing?sort=bestselling&page=1  
-— after selected game category X mark beside menu dropdown Genre should be visible  
-— web browser will be closed after the test 
+- after selected game category X mark beside menu dropdown Genre should be visible  
+- web browser will be closed after the test 
 
 
 # Dependencies:

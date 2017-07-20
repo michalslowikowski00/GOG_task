@@ -4,7 +4,7 @@ GOG_task
 - Chromedriver  
 https://sites.google.com/a/chromium.org/chromedriver/
 
-- Python 2.7.   
+- Python 2.7    
 https://www.python.org/downloads/
 
 - Selenium 3.0.1   

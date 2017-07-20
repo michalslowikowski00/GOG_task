@@ -15,5 +15,6 @@ https://pip.pypa.io/en/stable/installing/
 - Robot Framework 3.0.2  
 <code>python -m pip install robotframework</code>  
 
+
 # RUN Robot Framework via terminal   
 - go to directory where Robot file is located in repository and run <code>robot gog.robot</code>

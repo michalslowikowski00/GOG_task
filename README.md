@@ -1,10 +1,10 @@
 GOG_task
 
 # DEPENDENCIES:
-- Chromedriver  
+- ChromeDriver 2.30  
 https://sites.google.com/a/chromium.org/chromedriver/
 
-- Python 2.7    
+- Python 2.7.12    
 https://www.python.org/downloads/
 
 - Selenium 3.0.1   

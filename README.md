@@ -2,7 +2,7 @@ Gog_task
 
 # DEPENDENCIES:  
 - PyCharm Community Editon  
-https://www.jetbrains.com/pycharm/download/#section=mac    
+https://www.jetbrains.com/pycharm/download/  
 
 - Python 2.7.12  
 This Python version is installed on Mac by default  

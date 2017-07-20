@@ -21,7 +21,7 @@ At the end of test close browser.
 
 **3. Expectations:**  
 - there are available 9 games categories  
-- every time when game category will be selected, URL has to contain this category as string in URL, e.g. after selected role playing category URL should be like this:  
+- every time when game category will be selected, URL has to contain this category as string inside, e.g. after selected role playing category URL should be like this:  
 https://www.gog.com/games/role-playing?sort=bestselling&page=1  
 - after selected game category X mark beside menu dropdown Genre should be visible  
 - web browser will be closed after the test 

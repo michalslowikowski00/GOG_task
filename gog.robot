@@ -25,4 +25,3 @@ Check Category
 Close Test
     Tear Down
     Log To Console  Close Browser
-    

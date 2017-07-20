@@ -10,6 +10,7 @@ This Python version is installed on Mac by default
 - Selenium 3.0.1   
 pip install -U selenium  
 (if you don't have pip on your machine -- please look at this documentation and follow installation steps)  
+https://pip.pypa.io/en/stable/installing/  
 
 - Robot Framework 3.0.2  
 python -m pip install robotframework  

@@ -3,8 +3,8 @@
 1. Open browser and select every available game category:  
   - Role-playing  
   - Simulation  
-- Indie  
-- Racing  
+  - Indie  
+  - Racing  
 - Sports  
 - Action  
 - Strategy  

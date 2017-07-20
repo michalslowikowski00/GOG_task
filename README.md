@@ -1,7 +1,7 @@
 Gog_task
 
 # DEPENDENCIES:  
-- PyCharm Community Editon
+- PyCharm Community Editon  
 https://www.jetbrains.com/pycharm/download/#section=mac    
 
 - Python 2.7.12  

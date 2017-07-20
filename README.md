@@ -22,4 +22,4 @@ Custom library written in Python
 This library is default library in Robot Framework    
 
 # RUN Robot Framework via terminal   
-- go to directory where Robot file is located on repository and run <code>robot gog.robot</code>
+- go to directory where Robot file is located in repository and run <code>robot gog.robot</code>

@@ -66,5 +66,4 @@ class GogKeywords:
 
     def tear_down(self):
         self.driver.close()
-
         

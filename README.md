@@ -8,12 +8,12 @@ https://sites.google.com/a/chromium.org/chromedriver/
 https://www.python.org/downloads/
 
 - Selenium 3.0.1   
-pip install -U selenium  
+<code>pip install -U selenium</code>  
 (if you don't have pip on your machine -- please look at this documentation and follow installation steps)  
 https://pip.pypa.io/en/stable/installing/  
 
 - Robot Framework 3.0.2  
-python -m pip install robotframework  
+<code>python -m pip install robotframework</code>  
 
 - Keywords library written in Python 2.7.12  
 Custom library written in Python  

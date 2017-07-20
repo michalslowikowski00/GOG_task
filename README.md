@@ -1,7 +1,7 @@
 # Test Case:
 
 1. Open browser and select every available game category:  
-**Role-playing  
+  - Role-playing  
   - Simulation  
   - Indie  
   - Racing  

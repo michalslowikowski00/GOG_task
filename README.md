@@ -27,7 +27,7 @@ This library is default library in Robot Framework
 # RUN test via Robot Framework  
 - make sure that Python keywords library is imported to robot file. Copy Python keywords path and paste in robot file like in this exapmle:  
 *** Settings ***  
-Library  path/to/the/python/file.py  
+Library  file.py  
   
 - follow this instruction to be able to run Robot test in Pycharm:  
 http://blog.bigbinary.com/2015/10/11/configuring-pycharm-to-run-tests.html  

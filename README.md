@@ -1,10 +1,10 @@
 # Test Case:
 
 1. Open browser and select every available game category:  
-  - Role-playing  
-  - Simulation  
-  - Indie  
-  - Racing  
+- Role-playing  
+- Simulation  
+- Indie  
+- Racing  
 - Sports  
 - Action  
 - Strategy  
@@ -15,7 +15,7 @@ At the end of test close browser.
 
 2. Test steps: 
 
-Program will:  
+Program will: 
 - automatically open we browser (Chrome)  
 - iterate through every game type from menu dropdown called Genre — select every available game type from list and click on it  
 - check if mark X beside Genre is visible  

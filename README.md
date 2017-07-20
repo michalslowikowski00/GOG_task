@@ -33,5 +33,5 @@ Library  file.py
 http://blog.bigbinary.com/2015/10/11/configuring-pycharm-to-run-tests.html  
 
 # RUN Robot Framework via terminal:  
-- go to directory where Robot file is and run command (in this case -- robot gog.robot):  
+- go to directory where Robot file is located on repository (in this case -- robot gog.robot):  
 robot file_name.robot 

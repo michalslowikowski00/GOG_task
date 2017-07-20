@@ -1,15 +1,15 @@
 # Test Case:
 
 1. Open browser and select every available game category:  
-— Role-playing  
-— Simulation  
-— Indie  
-— Racing  
-— Sports  
-— Action  
-— Strategy  
-— Shooter  
-— Adventure 
+- Role-playing  
+- Simulation  
+- Indie  
+- Racing  
+- Sports  
+- Action  
+- Strategy  
+- Shooter  
+- Adventure 
 Check if current URL has game category name inside.    
 At the end of test close browser.
 
@@ -28,7 +28,7 @@ https://www.gog.com/games/role-playing?sort=bestselling&page=1
 
 
 # Dependencies:
-- Chrome 59.0.3071.11    
+- Chrome 59
 https://www.google.com/chrome/browser/desktop/index.html
 
 - ChromeDriver 2.30  

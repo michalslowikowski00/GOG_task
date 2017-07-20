@@ -16,7 +16,7 @@ https://pip.pypa.io/en/stable/installing/
 python -m pip install robotframework  
 
 - Keywords library written in Python 2.7.12  
-Library written by me in Python  
+Custom library written in Python  
 
 - Builtin Robot Framework library  
 This library is default library in Robot Framework    

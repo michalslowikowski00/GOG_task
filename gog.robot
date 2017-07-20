@@ -1,5 +1,5 @@
 *** Settings ***
-Library  /Users/negativeone/Documents/programming/gog_com/gog/GogKeywords.py
+Library  GogKeywords.py
 
 *** Test Cases ***
 Open Test Plan For GOG

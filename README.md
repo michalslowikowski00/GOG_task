@@ -19,11 +19,7 @@ python -m pip install robotframework
 Library written by me in Python  
 
 - Builtin Robot Framework library  
-This library is default library in Robot Framework  
-
-- PyCharm Community Editon  
-https://www.jetbrains.com/pycharm/download/
-  
+This library is default library in Robot Framework    
 
 # RUN Robot Framework via terminal   
 - go to directory where Robot file is located on repository and run robot gog.robot 

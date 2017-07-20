@@ -13,7 +13,8 @@
 Check if current URL has game category name inside.    
 At the end of test close browser.
 
-2. Test steps:  
+2. Test steps: 
+
 Program will:  
 - automatically open we browser (Chrome)  
 - iterate through every game type from menu dropdown called Genre — select every available game type from list and click on it  

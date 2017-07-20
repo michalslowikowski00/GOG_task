@@ -1,4 +1,4 @@
-Gog_task
+GOG_task
 
 # DEPENDENCIES:
 - Chromedriver  

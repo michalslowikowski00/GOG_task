@@ -21,7 +21,7 @@ https://www.python.org/downloads/
 - go to directory where Robot file is located in repository and run <code>robot gog.robot</code>
 
 
-Test Case:
+# Test Case:
 
 1. Open browser and select every available game category:  
 — Role-playing  

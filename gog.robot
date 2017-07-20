@@ -1,5 +1,5 @@
 *** Settings ***
-Library  gog_keywords.py
+Library  GogKeywords.py
 
 *** Test Cases ***
 Open Test Plan For GOG

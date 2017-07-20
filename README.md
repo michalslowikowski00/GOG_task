@@ -1,8 +1,8 @@
 Gog_task
 
-# DEPENDENCIES:  
-- PyCharm Community Editon  
-https://www.jetbrains.com/pycharm/download/  
+# DEPENDENCIES:
+- Chromedriver  
+https://sites.google.com/a/chromium.org/chromedriver/
 
 - Python 2.7.12  
 This Python version is installed on Mac by default  
@@ -20,6 +20,9 @@ Library written by me in Python
 
 - Builtin Robot Framework library  
 This library is default library in Robot Framework  
+
+- PyCharm Community Editon  
+https://www.jetbrains.com/pycharm/download/
 
 # SETUP Robot Framework in Pycharm  
 - go to PyCharm preferences -> plugins -> browse repositories and type in 'intellibot'. Install it  

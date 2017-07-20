@@ -5,7 +5,7 @@ Gog_task
 https://sites.google.com/a/chromium.org/chromedriver/
 
 - Python 2.7.12  
-This Python version is installed on Mac by default  
+https://www.python.org/downloads/
 
 - Selenium 3.0.1   
 pip install -U selenium  

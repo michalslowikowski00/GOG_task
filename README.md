@@ -44,5 +44,5 @@ https://www.python.org/downloads/
 <code>pip install robotframework</code>  
 
 
-# Run Robot Framework via terminal   
+# Run Robot Framework Test Case via terminal
 - go to directory where Robot file is located in repository and run <code>robot gog.robot</code>

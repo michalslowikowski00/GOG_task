@@ -28,7 +28,7 @@ https://www.gog.com/games/role-playing?sort=bestselling&page=1
 
 
 # Dependencies:
-- Chrome 59
+- Chrome 59  
 https://www.google.com/chrome/browser/desktop/index.html
 
 - ChromeDriver 2.30  

@@ -1,6 +1,6 @@
 # Test Case:
 
-**1. Open browser and select every available game category:  **
+**1. Open browser and select every available game category:**  
 - Role-playing  
 - Simulation  
 - Indie  

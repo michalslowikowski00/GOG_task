@@ -1,6 +1,6 @@
 GOG_task
 
-# DEPENDENCIES:
+# Dependencies:
 - Chrome 59.0.3071.11    
 https://www.google.com/chrome/browser/desktop/index.html
 
@@ -17,7 +17,7 @@ https://www.python.org/downloads/
 <code>pip install robotframework</code>  
 
 
-# RUN Robot Framework via terminal   
+# Run Robot Framework via terminal   
 - go to directory where Robot file is located in repository and run <code>robot gog.robot</code>
 
 

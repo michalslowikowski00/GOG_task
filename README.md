@@ -33,7 +33,7 @@ https://www.python.org/downloads/
 — Strategy  
 — Shooter  
 — Adventure 
-Check if current URL has game category name inside.  
+Check if current URL has game category name inside.    
 At the end of test close browser.
 
 2. Test steps:  

@@ -15,7 +15,7 @@ https://pip.pypa.io/en/stable/installing/
 - Robot Framework 3.0.2  
 <code>python -m pip install robotframework</code>  
 
-- Keywords library written in Python 2.7.12  
+- Keywords library written in Python 2.7
 Custom library written in Python  
 
 - Builtin Robot Framework library  

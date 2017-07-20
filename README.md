@@ -38,7 +38,7 @@ https://sites.google.com/a/chromium.org/chromedriver/
 - Python 2.7.12    
 https://www.python.org/downloads/
 
-- PIP -- package manager
+- PIP -- package manager  
 https://pip.pypa.io/en/stable/installing/
 
 - Selenium 3.0.1   

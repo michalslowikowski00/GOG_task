@@ -1,7 +1,7 @@
 GOG_task
 
 # DEPENDENCIES:
-- Chrome  
+- Chrome 59.0.3071.11    
 https://www.google.com/chrome/browser/desktop/index.html
 
 - ChromeDriver 2.30  

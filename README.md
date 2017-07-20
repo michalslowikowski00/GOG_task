@@ -23,10 +23,7 @@ This library is default library in Robot Framework
 
 - PyCharm Community Editon  
 https://www.jetbrains.com/pycharm/download/
-
-# SETUP Robot Framework in Pycharm  
-- go to PyCharm preferences -> plugins -> browse repositories and type in 'intellibot'. Install it  
+  
 
 # RUN Robot Framework via terminal   
-- go to directory where Robot file is located on repository (in this case -- robot gog.robot):  
-robot file_name.robot
+- go to directory where Robot file is located on repository and run robot gog.robot 

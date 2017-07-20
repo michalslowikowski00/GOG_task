@@ -1,13 +1,16 @@
 *** Settings ***
+
 Library  GogKeywords.py
 
 *** Test Cases ***
+
 Open Test Plan For GOG
     Open Browser
     Check Category
     [Teardown]  Close Test
 
 *** Keywords ***
+
 Open Browser
     Set Up Browser
     ${current_url}  Check Url
@@ -22,5 +25,4 @@ Check Category
 Close Test
     Tear Down
     Log To Console  Close Browser
-
-
+    
